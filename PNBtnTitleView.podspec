@@ -25,6 +25,6 @@ Pod::Spec.new do |s|
   
   s.frameworks = "Foundation", "UIKit", "XCTest"
 
-  
+  git 
 
 end
